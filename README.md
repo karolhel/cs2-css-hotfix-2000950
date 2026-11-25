@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **Superseded: the official [CounterStrikeSharp v1.0.381](https://github.com/roflmuffin/CounterStrikeSharp/releases/tag/v1.0.381) is out with the fix. Please update to it and stop using this hotfix.** This repository is archived.
+
 # CounterStrikeSharp v1.0.380 - unofficial Linux hotfix for CS2 1.42.0.1 (build 2000950)
 
 **Linux only. Temporary: go back to the official CounterStrikeSharp release as soon as it is out.**
